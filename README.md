@@ -1,1 +1,1 @@
-# WhatsViz-WhatsApp-Chat-Visualizer-
+# WhatsViz-WhatsApp-Chat-Visualizer
